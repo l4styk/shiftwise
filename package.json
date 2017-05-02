@@ -1,0 +1,14 @@
+{
+  "name": "shiftwise",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "randomize.js",
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=./jasmine.json"
+  },
+  "author": "Lori Zanotta",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
